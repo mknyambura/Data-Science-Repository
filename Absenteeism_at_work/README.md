@@ -6,6 +6,7 @@ Acknowledgements: Professor Gary Johns for contributing to the selection of rele
 
 The data set allows for several new combinations of attributes and attribute exclusions, or the modification of the attribute type (categorical, integer, or real) depending on the purpose of the research.The data set (Absenteeism at work - Part I) was used in academic research at the Universidade Nove de Julho - Postgraduate Program in Informatics and Knowledge Management.
 
+### In this dataset task is to predict hours of absenteeism at work, using features, provided in database.
 
 ## Attribute Information:
 

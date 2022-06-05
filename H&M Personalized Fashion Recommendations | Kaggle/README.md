@@ -1,6 +1,6 @@
 # H&M EDA Store and Customer Analysis
 
-### Data from Kaggle:<a href="www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data" target="_blank" rel="noopener noreferrer">H&M Kaggle Dataset</a>
+### Data from Kaggle:<a href="https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data" target="_blank" rel="noopener noreferrer">H&M Kaggle Dataset</a>
 
 #### For this challenge you are given the purchase history of customers across time, along with supporting metadata.
 ### Files

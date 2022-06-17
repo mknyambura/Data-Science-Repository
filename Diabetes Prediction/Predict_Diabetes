@@ -1,0 +1,19 @@
+# Diabetes-Prediction-with-Machine-Learning
+
+### According to the report of Centers of Disease Control and Prevention about one in seven adults in the United States have Diabetes. But by next few years this rate can move higher. With this in mind today, I will show you how you can use machine learning to Predict Diabetes using Python.
+
+## K-Nearest Neighbors to Predict Diabetes
+
+### The k-Nearest Neighbors algorithm is arguably the simplest machine learning algorithm. Building the model consists only of storing the training data set. To make a prediction for a new point in the dataset, the algorithm finds the closest data points in the training data set — its “nearest neighbors.”
+### We check the accuracy score of the k-nearest neighbors algorithm to predict diabetes.
+
+### We use the Decision Tree Classifier to compare it accuracy to K-Nearest Neigbors Algorithm and determing if we need to apply pruning. In pruning, we limit the depth of the tree which decreases overfitting. This leads to lower accuracy on the training set, but an improvement on the test set.
+
+# Feature Importance in Decision Trees
+
+### Feature importance shows how important each feature is for the decision a decision tree classifier makes. It is a number between 0 and 1 for each feature, where 0 means “not used at all” and 1 means “perfectly predicts the target”. The feature importance always sum to 1
+
+# Deep Learning to Predict Diabetes
+
+### We use the Multilayer Perceptrons Classifier although the accuracy of MLP is not as good as the other moels and this is likely due to the scaling of the data. Deep learning algorithms also expect all input features to vary in a similar way, and ideally to have a mean of 0, and a variance of 1
+
